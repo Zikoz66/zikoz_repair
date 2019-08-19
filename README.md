@@ -14,6 +14,6 @@ You need to es_extended is essentialmode and esx_mechanicjob or esx_mecanojob.
 
 To install it:
 
-start after es_extended and essentilmode. NativeUI is already included in.
+start after es_extended and essentialmode. NativeUI is already included in.
 
 If you want to change prices you have to go in the config.lua.
